@@ -1,0 +1,7 @@
+1.把有KB地址段的srec放入kb文件夹里，srec的名称必须为  FlashParameter_Z4_0.srec
+
+2.把带boot的产线软件放入PL_Software文件夹下面，PL_Software文件夹只能有一个带boot的产线软件
+
+3.双击tools文件夹下的FlashingRelease.bat脚本
+
+4.合并完的srec在withboot_kb文件夹下
